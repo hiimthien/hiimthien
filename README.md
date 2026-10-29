@@ -3,7 +3,7 @@
 Software Engineer based in Ho Chi Minh City, Vietnam.  
 Focusing on backend architecture with **PHP / Laravel** and modern frontend with **Vue 3**.
 
-[Email](mailto:thiencao.work@gmail.com) • [LinkedIn](https://linkedin.com) • [Portfolio](https://github.com/hiimthien/portfolio)
+[Email](mailto:thiencao.work@gmail.com) • [LinkedIn](https://linkedin.com) • [Portfolio](https://hiimthien.vercel.app)
 
 ---
 
